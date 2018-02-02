@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: BankPython
+Version: 0.1
+Summary: Bank Python is bank simulator that has an API Gateway. It has the following transaction type 1. Balance Enquiry, Deposit, Create Customer, Create Account, Withdrawer etc
+Home-page: UNKNOWN
+Author: Otun Oluwaseyi
+Author-email: seyijava@mgmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
